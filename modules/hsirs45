@@ -1,0 +1,4 @@
+module hsirs45
+{
+    Log-Information Hello Dears;
+}

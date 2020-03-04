@@ -1,4 +1,4 @@
 module hdars
 {
-    Log-Information Hello Dears;
+    Log-Information Hello Dears SIRFS;
 }

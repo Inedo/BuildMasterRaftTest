@@ -1,4 +1,4 @@
-module TestModduleRename
+module TestModuleRenamed
 {
     Invoke-Operation Test;
 }

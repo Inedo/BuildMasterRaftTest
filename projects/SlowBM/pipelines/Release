@@ -1,0 +1,49 @@
+{
+  "Name": "Release",
+  "Description": "",
+  "Stages": [
+    {
+      "Name": "Build",
+      "Description": "",
+      "Targets": [],
+      "Gate": {
+        "UserApprovals": [],
+        "GroupApprovals": [],
+        "DeploymentWindows": [],
+        "AutomatedChecks": {
+          "Issues": {
+            "Statuses": []
+          }
+        },
+        "AutomaticApprovals": []
+      },
+      "PostDeploymentEventListeners": [],
+      "AllowMultipleActiveBuilds": true,
+      "PreDeploymentSteps": [],
+      "PostDeploymentSteps": [],
+      "Variables": {}
+    },
+    {
+      "Name": "Release",
+      "Description": "",
+      "Targets": [],
+      "Gate": {
+        "UserApprovals": [],
+        "GroupApprovals": [],
+        "DeploymentWindows": [],
+        "AutomatedChecks": {
+          "Issues": {
+            "Statuses": []
+          }
+        },
+        "AutomaticApprovals": []
+      },
+      "PostDeploymentEventListeners": [],
+      "PreDeploymentSteps": [],
+      "PostDeploymentSteps": [],
+      "Variables": {}
+    }
+  ],
+  "Variables": {},
+  "PostDeploymentOptions": {}
+}

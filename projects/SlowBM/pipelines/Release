@@ -5,7 +5,14 @@
     {
       "Name": "Build",
       "Description": "",
-      "Targets": [],
+      "Targets": [
+        {
+          "PlanName": "Build",
+          "EnvironmentName": "",
+          "ServerNames": [],
+          "ServerRoleNames": []
+        }
+      ],
       "Gate": {
         "UserApprovals": [],
         "GroupApprovals": [],

@@ -1,3 +1,4 @@
+##AH:UseTextMode
 module hdars
 {
     Log-Information Hello Dears;

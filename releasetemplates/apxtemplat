@@ -1,9 +1,0 @@
-{
-  "Name": "apxtemplat",
-  "Pipeline": null,
-  "ReleaseVariables": [],
-  "BuildVariables": [],
-  "DeploymentVariables": [],
-  "DefaultDeployableOption": "SpecificVersions",
-  "Deployables": []
-}

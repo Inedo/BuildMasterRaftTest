@@ -1,9 +1,0 @@
-{
-  "Name": "asdf",
-  "Pipeline": null,
-  "ReleaseVariables": [],
-  "BuildVariables": [],
-  "DeploymentVariables": [],
-  "DefaultDeployableOption": "SpecificVersions",
-  "Deployables": []
-}

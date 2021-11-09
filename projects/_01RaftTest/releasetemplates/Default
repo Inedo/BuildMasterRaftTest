@@ -7,7 +7,7 @@
     {
       "Name": "AppRole",
       "Description": "",
-      "InitialValue": "DevServers",
+      "InitialValue": "BuildServers",
       "Type": "Text",
       "Usage": "Release",
       "PipelineStageNames": [],

@@ -3,16 +3,5 @@
   "Pipeline": "Release",
   "RestrictOverridePipeline": true,
   "Deployables": [],
-  "TemplateVariables": [
-    {
-      "Name": "AppRole",
-      "Description": "",
-      "InitialValue": "BuildServers",
-      "Type": "Text",
-      "Usage": "Release",
-      "PipelineStageNames": [],
-      "ListValues": [],
-      "ListRestrict": true
-    }
-  ]
+  "TemplateVariables": []
 }

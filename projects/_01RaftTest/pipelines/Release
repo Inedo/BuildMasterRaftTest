@@ -6,8 +6,12 @@
       "Targets": [
         {
           "PlanName": "Build",
+          "EnvironmentName": "Integration",
           "ServerNames": [],
-          "ServerRoleNames": []
+          "ServerRoleNames": [
+            "$AppRole"
+          ],
+          "DefaultServerContext": 3
         }
       ],
       "Gate": {

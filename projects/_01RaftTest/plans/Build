@@ -2,6 +2,8 @@
 {
     Log-Information "This script was auto-generated on 11/5/2021 1:57:28 PM; you may visit the Scripts page to modify it.";
 
+    Log-Information Environment $RoleName;
+
     Sleep
     (
         Seconds: 3

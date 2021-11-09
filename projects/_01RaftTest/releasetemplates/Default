@@ -3,17 +3,5 @@
   "Pipeline": "Release",
   "RestrictOverridePipeline": true,
   "Deployables": [],
-  "TemplateVariables": [
-    {
-      "Name": "env",
-      "Description": "",
-      "InitialValue": "",
-      "Required": true,
-      "Type": "<Inedo.BuildMaster.Extensibility.ListVariableSources.EnvironmentListVariableSource Assembly=\"BuildMasterExtensions\"><Properties /></Inedo.BuildMaster.Extensibility.ListVariableSources.EnvironmentListVariableSource>",
-      "Usage": "Release",
-      "PipelineStageNames": [],
-      "ListValues": [],
-      "ListRestrict": true
-    }
-  ]
+  "TemplateVariables": []
 }

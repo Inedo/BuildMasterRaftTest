@@ -4,5 +4,16 @@
   "Pipeline": "global::ExtensionPipeline",
   "RestrictOverridePipeline": true,
   "Deployables": [],
-  "TemplateVariables": []
+  "TemplateVariables": [
+    {
+      "Name": "Smile",
+      "Description": "",
+      "InitialValue": "false",
+      "Type": "Checkbox",
+      "Usage": "Release",
+      "PipelineStageNames": [],
+      "ListValues": [],
+      "ListRestrict": true
+    }
+  ]
 }

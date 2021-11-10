@@ -1,0 +1,8 @@
+{
+  "Name": "GitRaftBasedTemplate",
+  "Description": "",
+  "Pipeline": "global::ExtensionPipeline",
+  "RestrictOverridePipeline": true,
+  "Deployables": [],
+  "TemplateVariables": []
+}
